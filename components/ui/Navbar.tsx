@@ -18,7 +18,7 @@ export default function Navbar() {
             <Button>
               {" "}
               <a 
-              href="https://docs.google.com/document/d/1AIXeYBPt4mVCNP-NV9FW9QiDUf-lluXFpAT0SLaA1A8/edit?tab=t.0"
+              href="https://docs.google.com/document/d/1AIXeYBPt4mVCNP-NV9FW9QiDUf-lluXFpAT0SLaA1A8/edit?tab=t.0#heading=h.y7d3xdxnr44m"
               download="JKamau_Resume.pdf"
               target="_blank"
               rel="noopener noreferrer">Download Resume</a>
